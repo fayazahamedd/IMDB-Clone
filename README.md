@@ -8,10 +8,10 @@ in this project we can
   2. view details of particular movie
   3. add / remove movie from favourite section
   
-by default it shows tending movies on home pages
+by default, it shows tending movies on home pages
 
 
-i have used basic skill set for this project such as
+I have used a basic skill set for this project such as
   1. html 5
   2. css 3
   3. javascript
